@@ -6,6 +6,7 @@ package pkg1;
 public class Clazz1 {
 
 	public int add(int x, int y) {
+		System.out.println("vivek");
 		return x+y;
 	}
 	public int sub(int x, int y) {
